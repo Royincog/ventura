@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/ventura" mode="merge"/>
+    <filter root="/content/ventura" mode="merge"/>
+    <filter root="/content/dam/ventura/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/ventura" mode="merge"/>
+</workspaceFilter>

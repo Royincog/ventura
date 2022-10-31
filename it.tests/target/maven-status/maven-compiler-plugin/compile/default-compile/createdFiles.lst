@@ -1,0 +1,4 @@
+com\montery\it\tests\HtmlUnitClient.class
+com\montery\it\tests\PublishPageValidationIT.class
+com\montery\it\tests\CreatePageIT.class
+com\montery\it\tests\GetPageIT.class

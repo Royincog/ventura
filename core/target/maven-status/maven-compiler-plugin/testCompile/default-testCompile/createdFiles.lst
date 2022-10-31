@@ -1,0 +1,5 @@
+com\montery\core\filters\LoggingFilterTest.class
+com\montery\core\listeners\SimpleResourceListenerTest.class
+com\montery\core\models\HelloWorldModelTest.class
+com\montery\core\schedulers\SimpleScheduledTaskTest.class
+com\montery\core\servlets\SimpleServletTest.class
